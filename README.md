@@ -3,8 +3,13 @@
 This repository defines a surface where payment may occur
 without becoming a request, signal, or feedback mechanism.
 
-Payment here does not confirm value.
-It does not trigger response.
-It does not justify continuation.
+• Payment here does not confirm value.
+• It does not trigger response.
+• It does not justify continuation.
 
+Payment is not a trigger.
+If money arrives,
+it arrives as residue.
+
+No action follows.
 This surface exists to allow passage, not to invite it.
